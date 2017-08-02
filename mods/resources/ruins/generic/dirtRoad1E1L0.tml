@@ -1,0 +1,37 @@
+
+# Created by Ruins mod version 14.8 Ingame Parser
+# authoring Player: SunsOfOld
+
+weight=100
+embed_into_distance=1
+acceptable_target_blocks=grass
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,sand
+dimensions=1,7,25
+allowable_overhang=0
+max_leveling=2
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+uniqueMinDistance=1000000
+preventRotation=1
+
+rule1=0,100,preserveBlock
+rule2=0,100,chisel:dirt-3
+rule3=0,100,chisel:dirt-12
+rule4=0,100,chisel:dirt-11
+rule5=0,100,chisel:dirt-4
+rule6=0,100,chisel:dirt-10
+rule7=0,100,chisel:dirt-6
+rule8=0,100,chisel:dirt-7
+rule9=0,100,chisel:dirt-9
+
+layer
+1,1,1,1,1,1,1,2,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,2,5,4,2,5,2,4,3,3,1,1,1,1,1,1,1,1,1,1
+1,1,5,4,7,2,4,7,3,4,1,3,4,3,2,2,3,4,4,2,6,3,3,1,1
+1,1,2,2,2,1,1,1,1,7,7,1,2,5,7,2,4,3,2,5,1,1,2,2,1
+1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,3,7,2,9,6,1,5,8,1
+2,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,2,7,2
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+endlayer
+
