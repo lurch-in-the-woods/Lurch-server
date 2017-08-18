@@ -1,0 +1,176 @@
+groups:
+  member:
+    options:
+      default: true
+      prefix: '&7Spieler&8|&7'
+    permissions:
+    - -essentials.afk
+    - -essentials.afk.auto
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - -essentials.clearinventory
+    - essentials.delhome
+    - -essentials.help
+    - -essentials.helpop
+    - essentials.home
+    - essentials.ignore
+    - essentials.info
+    - -essentials.kit
+    - -essentials.kits.tools
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - -essentials.me
+    - -essentials.motd
+    - essentials.msg
+    - -essentials.msg.color
+    - essentials.pay
+    - -essentials.ping
+    - essentials.protect
+    - essentials.rules
+    - -essentials.realname
+    - -essentials.see
+    - essentials.sethome
+    - essentials.spawn
+    - -essentials.suicide
+    - -essentials.time
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.build.*
+    - -essentials.warps.list
+    - -essentials.warps.*
+    - essentials.warp
+    - -essentials.warp.list
+    - essentials.signs.use.buy
+    - essentials.signs.use.sell
+    - essentials.signs.use
+    - essentials.chat.color
+    - -essentials.afk
+    - -essentials.afk.auto
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - -essentials.clearinventory
+    - essentials.delhome
+    - -essentials.help
+    - -essentials.helpop
+    - essentials.home
+    - essentials.ignore
+    - essentials.info
+    - -essentials.kit
+    - -essentials.kits.tools
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - -essentials.me
+    - -essentials.motd
+    - essentials.msg
+    - -essentials.msg.color
+    - essentials.pay
+    - -essentials.ping
+    - essentials.protect
+    - essentials.rules
+    - -essentials.realname
+    - -essentials.see
+    - essentials.sethome
+    - essentials.spawn
+    - -essentials.suicide
+    - -essentials.time
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.build.*
+    - -essentials.warps.list
+    - -essentials.warps.*
+    - essentials.warp
+    - -essentials.warp.list
+    - essentials.signs.use.buy
+    - essentials.signs.use.sell
+    - essentials.signs.use
+    - essentials.chat.color
+    - modifyworld.*
+    - multiverse.access.*
+    - -minecraft.command.help
+    - -bukkit.command.?
+    - multiverse.portal.access.*
+    - essentials.build
+    - essentials.build.interact
+  supporter:
+    options:
+      default: false
+      prefix: '&2Supporter&8|&7'
+    permissions:
+    - essentials.build
+    - essentials.build.interact
+    - essentials.joinfullserver
+    - essentials.tp
+    - essentials.invsee
+    - essentials.feed
+    - -essentials.weather
+    - -essentials.setwarp
+    - worldguard.region.bypass.*
+    - -essentials.kill
+    - essentials.skull.*
+    - essentials.skull
+    - essentials.weather.sun
+    - essentials.fly
+    - essentials.broadcast
+    - essentials.mute
+    - essentials.kick
+    - essentials.sethome.multiple.team
+    - essentials.heal
+    - essentials.invsee
+    - essentials.feed
+    - essentials.weather
+    inheritance:
+    - member
+  moderator:
+    options:
+      default: false
+      prefix: '&9Moderator&8|&7'
+    permissions:
+    - -essentials.gamemode
+    - essentials.*
+    - essentials.setwarp
+    - worldguard.*
+    - essentials.invsee
+    - essentials.tphere
+    - essentials.tp
+    - essentials.broadcast
+    - essentials.feed
+    - essentials.feed.other
+    - essentials.time.set
+    - essentials.time
+    - essentials.weather
+    - essentials.time
+    - essentials.time.set
+    - essentials.banip
+    - essentials.afk
+    - essentials.unban
+    - essentials.ban
+    - essentials.heal
+    - essentials.build
+    - essentials.build.interact
+    - multiverse.access.*
+    - multiverse.portal.access.*
+    - essentials.setwarp
+    - worldguard.region.bypass.*
+    - essentials.gamemode
+    - essentials.kick
+    - essentials.tphere
+    - essentials.tpall
+    - essentials.ban
+    - essentials.tempban
+    - worldguard.*
+    inheritance:
+    - supporter
+  admin:
+    options:
+      default: false
+      prefix: '&cAdmin&8|&7'
+    permissions:
+    - *
+schema-version: 1
+
