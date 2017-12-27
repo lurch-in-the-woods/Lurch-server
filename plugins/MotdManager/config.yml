@@ -1,0 +1,9 @@
+# MotdManager Configuration file!
+# @author syamn <admin@sakura-server.net>
+# github: https://github.com/syamn/MotdManager
+
+MotdList:
+- '&eLurchcraft&8|&aLurch in the Woods'
+FakeMaxPlayer: disable
+Debug: false
+ConfigVersion: 1
