@@ -1,0 +1,29 @@
+lastAccountName: StahlWolle_Laser
+timestamps:
+  login: 1513529830320
+  logout: 1513538793916
+  lastteleport: 1513538736086
+ipAddress: 46.5.166.100
+lastlocation:
+  world: world
+  x: 844.3000000119209
+  y: 69.0
+  z: 276.90793298503905
+  yaw: -263.25003
+  pitch: 11.399992
+logoutlocation:
+  world: world
+  x: 67.73369211549249
+  y: 78.0
+  z: 785.9776031850959
+  yaw: 100.04954
+  pitch: 4.0498223
+homes:
+  home:
+    world: world
+    x: 67.21676795839238
+    y: 78.0
+    z: 794.6999999880791
+    yaw: 11.549537
+    pitch: -81.90018
+afk: false

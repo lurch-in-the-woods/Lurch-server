@@ -1,0 +1,22 @@
+lastAccountName: Subjekt_91
+timestamps:
+  login: 1510511245238
+  logout: 1510515363912
+  lastteleport: 1510510534872
+ipAddress: 95.88.228.70
+lastlocation:
+  world: world
+  x: -502.94065276990017
+  y: 74.0
+  z: 3337.7902371178207
+  yaw: 206.55103
+  pitch: 20.250053
+afk: false
+godmode: false
+logoutlocation:
+  world: world
+  x: -414.6841416408795
+  y: 75.0
+  z: 3350.6384039142495
+  yaw: 141.39792
+  pitch: 23.10008

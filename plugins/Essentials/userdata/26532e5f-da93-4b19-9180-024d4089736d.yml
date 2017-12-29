@@ -1,0 +1,21 @@
+lastAccountName: Cardian
+timestamps:
+  login: 1508938104354
+  logout: 1508940599249
+  lastteleport: 1508853679706
+ipAddress: 88.71.248.131
+lastlocation:
+  world: world
+  x: 1637.300000011921
+  y: 75.0
+  z: 1259.9456935653275
+  yaw: 326.54843
+  pitch: 10.499974
+afk: false
+logoutlocation:
+  world: world
+  x: 876.1921581272937
+  y: 59.0
+  z: 1592.963420875554
+  yaw: 281.55942
+  pitch: 25.500072

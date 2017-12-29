@@ -1,0 +1,21 @@
+lastAccountName: Maalo
+timestamps:
+  login: 1514228342511
+  lastteleport: 1514230725469
+  logout: 1514234006290
+ipAddress: 77.186.1.162
+lastlocation:
+  world: world
+  x: 1821.1803805946515
+  y: 107.78868552650671
+  z: 3307.1954778287245
+  yaw: -334.38916
+  pitch: 11.549927
+logoutlocation:
+  world: world
+  x: 489.45508880922495
+  y: 142.0
+  z: 5372.612196415979
+  yaw: -233.69202
+  pitch: 30.149372
+afk: false

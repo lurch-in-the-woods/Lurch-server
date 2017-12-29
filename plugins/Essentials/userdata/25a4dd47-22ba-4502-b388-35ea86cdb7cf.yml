@@ -1,0 +1,29 @@
+lastAccountName: Florian_26
+timestamps:
+  login: 1514504293064
+  lastteleport: 1514402160864
+  logout: 1514504613479
+ipAddress: 88.152.11.19
+lastlocation:
+  world: world
+  x: 2158.919571727791
+  y: 63.0
+  z: 4275.574601019413
+  yaw: -6.7279053
+  pitch: 22.15397
+logoutlocation:
+  world: world
+  x: 1191.5
+  y: 39.0
+  z: 386.5
+  yaw: 38.108852
+  pitch: 15.295088
+afk: false
+homes:
+  home:
+    world: world
+    x: 1191.3469131178588
+    y: 39.0
+    z: 386.6486563970558
+    yaw: 181.8257
+    pitch: 4.960122

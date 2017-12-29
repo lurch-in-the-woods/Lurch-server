@@ -1,0 +1,29 @@
+lastAccountName: Nado1991
+timestamps:
+  login: 1508596838592
+  logout: 1508597102224
+  lastteleport: 1508593441749
+ipAddress: 176.199.33.39
+lastlocation:
+  world: DIM-1
+  x: 1333.2016907108614
+  y: 53.0
+  z: 536.8836411525515
+  yaw: 84.598755
+  pitch: -7.500059
+logoutlocation:
+  world: world
+  x: 1228.4272021411223
+  y: 11.0
+  z: 891.8584208065558
+  yaw: 183.8999
+  pitch: 11.5500145
+homes:
+  home:
+    world: world
+    x: 1263.9020010365382
+    y: 82.0
+    z: 732.7675024564246
+    yaw: 275.84982
+    pitch: 5.2500215
+afk: false

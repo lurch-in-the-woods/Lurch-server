@@ -1,0 +1,21 @@
+lastAccountName: iBimsDerKrampf
+timestamps:
+  login: 1505565985117
+  lastteleport: 1505567025194
+  logout: 1505567324977
+ipAddress: 87.166.180.122
+lastlocation:
+  world: world
+  x: 812.4727193412958
+  y: 62.0
+  z: 274.08844878007824
+  yaw: -20.399977
+  pitch: 16.04999
+logoutlocation:
+  world: world
+  x: 904.5589582224535
+  y: 71.20000004768372
+  z: 483.30000001192093
+  yaw: -141.59962
+  pitch: 19.20002
+afk: false

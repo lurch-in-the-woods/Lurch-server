@@ -1,0 +1,29 @@
+lastAccountName: Karl17392
+timestamps:
+  login: 1509364090153
+  logout: 1509368426556
+  lastteleport: 1509368137477
+ipAddress: 80.171.239.144
+lastlocation:
+  world: world
+  x: -102.93712330110193
+  y: 29.865707024379287
+  z: 791.4905048011639
+  yaw: 122.0349
+  pitch: 1.649978
+logoutlocation:
+  world: world
+  x: -218.99334711265666
+  y: 72.0
+  z: 982.5268027337365
+  yaw: -171.54614
+  pitch: 6.4498987
+homes:
+  mrdimaks21:
+    world: world
+    x: -211.67606617218303
+    y: 108.0
+    z: 983.6240924412995
+    yaw: -261.24744
+    pitch: 16.799887
+afk: false

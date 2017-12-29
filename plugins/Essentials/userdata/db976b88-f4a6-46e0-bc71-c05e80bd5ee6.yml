@@ -1,0 +1,21 @@
+lastAccountName: w33dm4n
+timestamps:
+  login: 1514496916386
+  lastteleport: 1514493237712
+  logout: 1514498020751
+ipAddress: 84.132.76.146
+lastlocation:
+  world: world
+  x: 397.2285128863323
+  y: 66.98375714588003
+  z: 68.04794382237307
+  yaw: 288.59964
+  pitch: 11.100139
+logoutlocation:
+  world: world
+  x: 1177.7122815206649
+  y: 22.0
+  z: 4.792771105245727
+  yaw: 161.39662
+  pitch: 7.0500455
+afk: false

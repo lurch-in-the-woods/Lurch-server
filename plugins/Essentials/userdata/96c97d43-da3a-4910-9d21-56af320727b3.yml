@@ -1,0 +1,28 @@
+lastAccountName: _Deconstruction
+timestamps:
+  login: 1510511295647
+  lastteleport: 1510511334376
+  logout: 1510515823380
+ipAddress: 185.113.6.149
+lastlocation:
+  world: world
+  x: -377.8637163030362
+  y: 68.0
+  z: 3345.2661781478996
+  yaw: 331.6086
+  pitch: 25.044035
+homes:
+  home:
+    world: world
+    x: -377.8637163030362
+    y: 68.0
+    z: 3345.2661781478996
+    yaw: 334.9086
+    pitch: 34.644028
+logoutlocation:
+  world: world
+  x: -498.22454510376724
+  y: 69.87935067448966
+  z: 3420.213154672372
+  yaw: -2.1800725
+  pitch: 38.25018

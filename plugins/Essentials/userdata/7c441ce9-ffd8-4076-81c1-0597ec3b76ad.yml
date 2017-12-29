@@ -1,0 +1,29 @@
+lastAccountName: ShinyBear
+timestamps:
+  login: 1508956109052
+  logout: 1508956308561
+  lastteleport: 1507839548515
+ipAddress: 77.13.25.124
+lastlocation:
+  world: world
+  x: 2066.9354380044506
+  y: 64.0
+  z: 3094.010491690451
+  yaw: -185.58777
+  pitch: 2.24997
+logoutlocation:
+  world: world
+  x: 1974.831667421334
+  y: 86.0
+  z: 3765.3444758769083
+  yaw: 206.5124
+  pitch: 32.100018
+homes:
+  home:
+    world: world
+    x: 1973.4892436723144
+    y: 103.0
+    z: 3757.2748194997316
+    yaw: -94.087524
+    pitch: 19.34999
+afk: false

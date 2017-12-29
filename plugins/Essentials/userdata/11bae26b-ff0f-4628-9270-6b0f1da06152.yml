@@ -1,0 +1,28 @@
+lastAccountName: MsAtero
+timestamps:
+  login: 1503937894685
+  logout: 1503942657515
+  lastteleport: 1503942589276
+ipAddress: 91.57.180.162
+lastlocation:
+  world: world
+  x: 960.7386892474653
+  y: 63.0
+  z: -125.47686091326615
+  yaw: 96.74011
+  pitch: 13.049981
+homes:
+  home:
+    world: world
+    x: 963.2482402642667
+    y: 63.0
+    z: -115.56457840180047
+    yaw: 177.44272
+    pitch: 16.499939
+logoutlocation:
+  world: world
+  x: 869.6807611245049
+  y: 77.0
+  z: 317.48093225468347
+  yaw: 78.29962
+  pitch: 14.399981

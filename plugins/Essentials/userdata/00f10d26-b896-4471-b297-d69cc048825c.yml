@@ -1,0 +1,28 @@
+lastAccountName: HDCliff
+timestamps:
+  login: 1513491152073
+  lastteleport: 1513494482073
+  logout: 1513494565659
+ipAddress: 87.166.46.11
+lastlocation:
+  world: world
+  x: 3793.8119009488623
+  y: 58.0
+  z: 2128.8736024644204
+  yaw: 93.502716
+  pitch: 15.882605
+homes:
+  vault:
+    world: world
+    x: 3795.9613865933884
+    y: 58.0
+    z: 2133.4809794178955
+    yaw: 269.97827
+    pitch: 30.280466
+logoutlocation:
+  world: world
+  x: 3798.043890164002
+  y: 58.0
+  z: 2135.190612406956
+  yaw: 178.11913
+  pitch: 26.02466

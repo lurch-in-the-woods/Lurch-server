@@ -54,6 +54,13 @@
 #ignore-groups=admins,mods
 #on-use=deny,tell
 
+
+#Deny Draconic Reaktor
+[DraconicReactorCore]
+on-place=deny,tell
+#Deny BC Quarrys 
+[Quarry]
+on-place=deny,tell
 # Deny some ore
 #[coalore,goldore,ironore]
 #ignore-groups=admins,mods

@@ -1,0 +1,29 @@
+lastAccountName: n4n0c0r3
+timestamps:
+  login: 1513214572358
+  logout: 1513214819020
+  lastteleport: 1513144730348
+ipAddress: 82.83.67.244
+lastlocation:
+  world: world
+  x: 2090.38478479432
+  y: 61.0
+  z: 6108.873799107969
+  yaw: 354.27014
+  pitch: 16.41611
+logoutlocation:
+  world: world
+  x: 1471.7453124153694
+  y: 53.0
+  z: 6128.426805081778
+  yaw: 60.54076
+  pitch: 24.998793
+homes:
+  ass:
+    world: world
+    x: 1454.092228715384
+    y: 67.0
+    z: 6115.61719346434
+    yaw: -254.68047
+    pitch: -9.8651285
+afk: false

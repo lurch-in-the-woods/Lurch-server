@@ -1,0 +1,43 @@
+lastAccountName: Khellian
+timestamps:
+  login: 1512933347410
+  lastteleport: 1512935408941
+  logout: 1512935760561
+ipAddress: 79.249.187.246
+lastlocation:
+  world: Farmwelt
+  x: 1427.1173333404097
+  y: 68.0
+  z: 306.5658513401776
+  yaw: -142.54987
+  pitch: 9.149799
+logoutlocation:
+  world: world
+  x: 1360.8806550366949
+  y: 77.0
+  z: -412.1549785195829
+  yaw: 27.598389
+  pitch: 16.949978
+afk: false
+homes:
+  quarry:
+    world: DIM-1
+    x: 99.11501762691962
+    y: 74.0
+    z: -1.3000000119209618
+    yaw: 279.15082
+    pitch: 22.199936
+  daheim:
+    world: world
+    x: 1360.7296340151706
+    y: 77.0
+    z: -412.33347813651864
+    yaw: 30.298206
+    pitch: 15.150004
+  temo:
+    world: world
+    x: 2004.6838188543134
+    y: 87.0
+    z: 1118.0341554461509
+    yaw: 25.975761
+    pitch: 5.685107

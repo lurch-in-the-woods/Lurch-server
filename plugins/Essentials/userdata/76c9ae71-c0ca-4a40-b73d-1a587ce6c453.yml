@@ -1,0 +1,21 @@
+lastAccountName: Higamoklus
+timestamps:
+  login: 1504639912481
+  logout: 1504648943528
+  lastteleport: 1504625367465
+ipAddress: 94.134.116.171
+lastlocation:
+  world: world
+  x: 512.8723728197033
+  y: 62.0
+  z: 856.6999999880791
+  yaw: 239.11699
+  pitch: 24.74999
+logoutlocation:
+  world: world
+  x: 808.5
+  y: 67.0
+  z: 839.5
+  yaw: -54.002148
+  pitch: 14.5499525
+afk: false
