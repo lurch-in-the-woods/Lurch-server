@@ -1,0 +1,20 @@
+lastAccountName: Prepper
+timestamps:
+  login: 1505321346822
+  logout: 1505324113505
+ipAddress: 37.5.161.32
+lastlocation:
+  world: world
+  x: 773.5590729147368
+  y: 64.0
+  z: 418.3793666068985
+  yaw: 1.0504456
+  pitch: -35.249996
+afk: false
+logoutlocation:
+  world: world
+  x: 781.7717577801255
+  y: 63.0
+  z: 503.99897758387846
+  yaw: -330.29926
+  pitch: 2.9999568

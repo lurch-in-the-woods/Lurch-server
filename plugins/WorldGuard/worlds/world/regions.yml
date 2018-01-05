@@ -10,6 +10,92 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    nezorplay:
+        min: {x: 1315.0, y: 0.0, z: 1312.0}
+        max: {x: 1395.0, y: 255.0, z: 1384.0}
+        members: {}
+        flags: {creeper-explosion: deny}
+        owners:
+            unique-ids: [93a234ec-6de2-489a-a66b-b7e7c0a605b3, 20ec3f9c-f985-4a95-88ff-977deedffa06]
+        type: cuboid
+        priority: 0
+    gs_karnyt:
+        min: {x: 1771.0, y: 0.0, z: 2665.0}
+        max: {x: 2620.0, y: 255.0, z: 3343.0}
+        members: {}
+        flags: {other-explosion: deny, creeper-explosion: deny, enderman-grief: deny}
+        owners:
+            unique-ids: [903db578-3c05-4af6-9cab-ccb2f651b562, c4d2c3b9-cf40-4149-bce5-079704fdea69,
+                3da35b7b-5db4-416c-9c9f-b8e65e56e534, 6e4c1449-631b-41df-bbce-b3a05c16222a]
+        type: cuboid
+        priority: 0
+    zisiru_gs1:
+        min: {x: 284.0, y: 0.0, z: 1070.0}
+        max: {x: 464.0, y: 255.0, z: 1177.0}
+        members:
+            unique-ids: [bede0eb4-e849-49ab-822e-695e5e95c65d]
+        flags: {}
+        owners:
+            unique-ids: [8c4537f8-6cf2-4824-a4de-f7677b467305]
+        type: cuboid
+        priority: 0
+    ruffy121_gs0:
+        min: {x: 1014.0, y: 0.0, z: 991.0}
+        max: {x: 1168.0, y: 255.0, z: 1087.0}
+        members:
+            unique-ids: [c4d2c3b9-cf40-4149-bce5-079704fdea69]
+        flags: {}
+        owners:
+            unique-ids: [d9fbc5be-73e8-4437-a38e-10bc44753bc1]
+        type: cuboid
+        priority: 0
+    mc_thundras_gs0:
+        min: {x: 959.0, y: 0.0, z: -449.0}
+        max: {x: 1161.0, y: 255.0, z: -247.0}
+        members:
+            unique-ids: [7a761ef3-ed2c-4982-98ad-79563b347efd]
+        flags: {fire-spread: deny}
+        owners:
+            unique-ids: [f040f7fb-b7d3-42e1-8630-8888869516fd]
+        type: cuboid
+        priority: 0
+    gs_dorikan:
+        min: {x: -1872.0, y: 0.0, z: 2840.0}
+        max: {x: -1740.0, y: 255.0, z: 3017.0}
+        members:
+            unique-ids: [6e4c1449-631b-41df-bbce-b3a05c16222a]
+        flags: {}
+        owners:
+            unique-ids: [20ec3f9c-f985-4a95-88ff-977deedffa06]
+        type: cuboid
+        priority: 0
+    _christopher01_:
+        min: {x: 964.0, y: 0.0, z: 468.0}
+        max: {x: 985.0, y: 255.0, z: 488.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [09e5199e-eea8-454c-b334-3171619ddecd, c13f3d8b-1488-4a0c-abde-575cd67c6fe8]
+        type: cuboid
+        priority: 0
+    laxy_gt:
+        min: {x: 1435.0, y: 0.0, z: -394.0}
+        max: {x: 1480.0, y: 255.0, z: -333.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [fceb5f27-08b5-4413-b704-2bdc8ea90cc0]
+        type: cuboid
+        priority: 0
+    gs1_scarface:
+        min: {x: -108.0, y: 0.0, z: 1402.0}
+        max: {x: 212.0, y: 255.0, z: 1670.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [4fe1e559-8b29-43f7-b902-d11ea1f2fc7b, d1dfd0d4-69a1-4a6b-8bb0-1926f1c521c0]
+        type: cuboid
+        priority: 0
     abbau:
         min: {x: 377.0, y: 0.0, z: 133.0}
         max: {x: 425.0, y: 255.0, z: 179.0}
@@ -17,4 +103,39 @@ regions:
         flags: {}
         owners: {}
         type: cuboid
+        priority: 0
+    maalo_gs:
+        min: {x: 412.0, y: 0.0, z: 5300.0}
+        max: {x: 632.0, y: 255.0, z: 5615.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [5c176aba-7d4a-4b93-bf98-1f1364218bf2, 6e4c1449-631b-41df-bbce-b3a05c16222a,
+                c4d2c3b9-cf40-4149-bce5-079704fdea69, 10ff1876-8a11-4265-939c-4dabaa2d1ef3]
+        type: cuboid
+        priority: 0
+    timon_gs0:
+        min: {x: 860.0, y: 0.0, z: 238.0}
+        max: {x: 918.0, y: 255.0, z: 286.0}
+        members: {}
+        flags: {use: allow, tnt: deny}
+        owners:
+            unique-ids: [f26a965c-f020-42d3-a478-6a52c4c24226]
+        type: cuboid
+        priority: 0
+    shyfunnygirl_gs0:
+        min: {x: 1052.0, y: 0.0, z: -208.0}
+        max: {x: 1116.0, y: 255.0, z: -111.0}
+        members:
+            unique-ids: [f040f7fb-b7d3-42e1-8630-8888869516fd]
+        flags: {}
+        owners:
+            unique-ids: [7a761ef3-ed2c-4982-98ad-79563b347efd]
+        type: cuboid
+        priority: 0
+    __global__:
+        members: {}
+        flags: {}
+        owners: {}
+        type: global
         priority: 0

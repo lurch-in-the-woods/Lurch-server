@@ -1,0 +1,43 @@
+lastAccountName: SkillMeDark
+timestamps:
+  login: 1507405347477
+  logout: 1507405595522
+  lastteleport: 1507404877913
+ipAddress: 109.47.1.188
+lastlocation:
+  world: Farmwelt
+  x: -151.93661695142077
+  y: 80.5193827233791
+  z: 99.95239250262958
+  yaw: 176.39853
+  pitch: 18.45022
+logoutlocation:
+  world: world
+  x: 686.635066986951
+  y: 52.0
+  z: 910.0281762755033
+  yaw: -93.115204
+  pitch: 3.6002014
+homes:
+  blaze:
+    world: DIM-1
+    x: 324.25646680989473
+    y: 60.0
+    z: 379.8169685434617
+    yaw: 93.59534
+    pitch: 7.799921
+  home:
+    world: world
+    x: 683.0219949620199
+    y: 35.0
+    z: 977.6375825558075
+    yaw: -92.36544
+    pitch: 2.0951926E-4
+  bees:
+    world: DIM-1
+    x: 280.69999998807907
+    y: 99.0
+    z: 197.6212527222419
+    yaw: 87.59617
+    pitch: 10.050312
+afk: false

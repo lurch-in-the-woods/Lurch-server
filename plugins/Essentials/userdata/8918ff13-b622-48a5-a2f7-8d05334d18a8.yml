@@ -1,0 +1,29 @@
+lastAccountName: WurstKH
+timestamps:
+  login: 1509384123926
+  logout: 1509386499576
+  lastteleport: 1507577507777
+ipAddress: 77.22.136.180
+lastlocation:
+  world: world
+  x: 867.4926083026662
+  y: 64.0
+  z: 1569.1511408872477
+  yaw: -180.75984
+  pitch: 3.000022
+logoutlocation:
+  world: world
+  x: 974.1509751389043
+  y: 77.0
+  z: 1326.6097325466533
+  yaw: 87.14209
+  pitch: 10.811259
+afk: false
+homes:
+  home:
+    world: world
+    x: 975.2854462354828
+    y: 91.0
+    z: 1344.545550744102
+    yaw: 89.54997
+    pitch: 3.2999876

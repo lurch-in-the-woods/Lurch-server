@@ -1,0 +1,28 @@
+lastAccountName: MadGamingBrosXt
+timestamps:
+  login: 1505059644375
+  logout: 1505065481579
+  lastteleport: 1505064715070
+ipAddress: 93.224.171.183
+lastlocation:
+  world: world
+  x: 974.4405349417434
+  y: 76.0
+  z: 418.7249559665066
+  yaw: -21.762835
+  pitch: 9.450026
+logoutlocation:
+  world: world
+  x: 1025.0048174971462
+  y: 72.0
+  z: 458.8838836787823
+  yaw: -289.2137
+  pitch: -5.9999633
+homes:
+  home:
+    world: world
+    x: 1021.4032150248356
+    y: 72.0
+    z: 456.95885701147097
+    yaw: -291.16278
+    pitch: 23.999996

@@ -1,0 +1,33 @@
+Prefix: '&8[&eSystem&8]&e'
+colored-names: false
+Players:
+  p1:
+    Name: Subjekt_91
+    Prefix: '&8[&cAdmin&8]&7'
+  p2:
+    Name: Ruffy121
+    Prefix: '&8[&cAdmin&8]&7'
+  p3:
+    Name: _Desconstruction
+    Prefix: '&8[&cAdmin&8]&7'
+  p4:
+    Name: xTimon97
+    Prefix: '&8[&cCo-Admin&8]&7'
+  p5:
+    Name: Florian_26
+    Prefix: '&8[&3Dev&8]&7'
+  p6:
+    Name: MC_Thundras
+    Prefix: '&8[&9Moderator&8]&7'
+  p7:
+    Name: Donaufreak
+    Prefix: '&8[&9Moderator&8]&7'
+  p8:
+    Name: SphinxHD
+    Prefix: '&8[&2Supporter&8]&7'
+  p9:
+    Name: NezorPlay
+    Prefix: '&8[&2Supporter&8]&7'
+  p10:
+    Name: _Christopher01_
+    Prefix: '&8[&2Supporter&8]&7'

@@ -1,0 +1,21 @@
+lastAccountName: 76ersMechWarrior
+timestamps:
+  login: 1504461576453
+  logout: 1504475294773
+  lastteleport: 1504475115605
+ipAddress: 217.80.169.213
+lastlocation:
+  world: world
+  x: 1955.616904788063
+  y: 6.0
+  z: -196.13995326160938
+  yaw: -4.050207
+  pitch: 54.300068
+logoutlocation:
+  world: world
+  x: 1957.1523651560037
+  y: 63.0
+  z: -199.15455828437103
+  yaw: 58.350067
+  pitch: 32.55009
+afk: false

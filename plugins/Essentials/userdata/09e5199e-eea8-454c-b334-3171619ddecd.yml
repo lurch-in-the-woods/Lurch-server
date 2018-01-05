@@ -1,0 +1,50 @@
+lastAccountName: _Christopher01_
+timestamps:
+  login: 1513964784594
+  logout: 1513964800499
+  lastteleport: 1513963394689
+ipAddress: 93.254.171.198
+lastlocation:
+  world: world
+  x: 421.57395085065906
+  y: 56.0
+  z: 1120.009916588698
+  yaw: 193.73975
+  pitch: -8.656392
+logoutlocation:
+  world: world
+  x: 974.8835467628994
+  y: 59.0
+  z: 497.0421784123837
+  yaw: -7.720279
+  pitch: 12.299999
+afk: false
+homes:
+  quarry:
+    world: DIM-112
+    x: 204.53992963462102
+    y: 66.0
+    z: 134.8761675172985
+    yaw: -179.8512
+    pitch: 52.950348
+  home:
+    world: world
+    x: 1008.4523535331367
+    y: 76.0
+    z: 501.4378137944669
+    yaw: -176.62045
+    pitch: 39.4296
+  nether:
+    world: DIM-1
+    x: 102.85883996375452
+    y: 77.875
+    z: 35.394218133640535
+    yaw: 187.49992
+    pitch: 37.50001
+  kristall:
+    world: world
+    x: 1218.3742930069798
+    y: 20.0
+    z: -532.4755227183159
+    yaw: -334.43985
+    pitch: 16.620108

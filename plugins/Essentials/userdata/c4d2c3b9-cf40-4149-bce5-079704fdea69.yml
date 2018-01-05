@@ -1,0 +1,43 @@
+lastAccountName: KarnyT
+timestamps:
+  login: 1514495285889
+  lastteleport: 1514476786601
+  logout: 1514477492034
+ipAddress: 213.211.211.108
+lastlocation:
+  world: world
+  x: 517.4115573150623
+  y: 70.0
+  z: 5400.200089767217
+  yaw: 120.30142
+  pitch: -21.450022
+logoutlocation:
+  world: world
+  x: 1870.4895450097786
+  y: 139.35136943849952
+  z: 3166.225279622961
+  yaw: 12.868286
+  pitch: 20.700212
+homes:
+  home:
+    world: world
+    x: 2046.5
+    y: 52.0
+    z: 3117.5
+    yaw: 71.518036
+    pitch: 18.150156
+  ruffy:
+    world: world
+    x: 1120.8159943837695
+    y: 50.0
+    z: 1046.1955057634684
+    yaw: 77.55029
+    pitch: 17.85002
+  madelz:
+    world: world
+    x: 519.6999999880791
+    y: 113.0
+    z: 5400.659503622728
+    yaw: -59.10195
+    pitch: 37.499924
+afk: false

@@ -1,0 +1,29 @@
+lastAccountName: NezorPlay
+timestamps:
+  login: 1510499694836
+  lastteleport: 1510501196949
+  logout: 1510501410800
+ipAddress: 5.10.181.51
+lastlocation:
+  world: world
+  x: 67.80632885638589
+  y: 70.0
+  z: 793.8775334913635
+  yaw: -195.66705
+  pitch: -48.90002
+logoutlocation:
+  world: DIM-1
+  x: 122.42940560238195
+  y: 86.22548591959259
+  z: 40.721279262819316
+  yaw: 59.18321
+  pitch: 33.300014
+afk: false
+homes:
+  home:
+    world: world
+    x: 1393.6884089367518
+    y: 183.0
+    z: 1325.699999988079
+    yaw: -112.95017
+    pitch: 51.299984

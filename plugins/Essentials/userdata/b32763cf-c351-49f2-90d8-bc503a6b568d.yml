@@ -1,0 +1,29 @@
+lastAccountName: Alrduin
+timestamps:
+  login: 1509537330899
+  logout: 1509543274753
+  lastteleport: 1509541723723
+ipAddress: 91.141.1.65
+lastlocation:
+  world: world
+  x: 1255.4543900515841
+  y: 47.0
+  z: 772.6199467600476
+  yaw: 0.14904785
+  pitch: 20.249992
+homes:
+  home:
+    world: world
+    x: 915.4503654171141
+    y: 74.0
+    z: -99.85985242087263
+    yaw: 245.24573
+    pitch: 39.749966
+afk: false
+logoutlocation:
+  world: world
+  x: 899.4907251393042
+  y: 63.0
+  z: -93.59989464485452
+  yaw: 46.518066
+  pitch: 18.15012

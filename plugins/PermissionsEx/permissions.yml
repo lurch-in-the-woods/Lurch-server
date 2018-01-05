@@ -1,11 +1,11 @@
+# Kommentare
 groups:
   member:
     options:
       default: true
       prefix: '&7Spieler&8|&7'
     permissions:
-    - -essentials.afk
-    - -essentials.afk.auto
+    - essentials.afk.auto
     - essentials.balance
     - essentials.balance.others
     - essentials.balancetop
@@ -26,50 +26,7 @@ groups:
     - essentials.msg
     - -essentials.msg.color
     - essentials.pay
-    - -essentials.ping
-    - essentials.protect
-    - essentials.rules
-    - -essentials.realname
-    - -essentials.see
-    - essentials.sethome
-    - essentials.spawn
-    - -essentials.suicide
-    - -essentials.time
-    - essentials.tpa
-    - essentials.tpaccept
-    - essentials.tpahere
-    - essentials.build.*
-    - -essentials.warps.list
-    - -essentials.warps.*
-    - essentials.warp
-    - -essentials.warp.list
-    - essentials.signs.use.buy
-    - essentials.signs.use.sell
-    - essentials.signs.use
-    - essentials.chat.color
-    - -essentials.afk
-    - -essentials.afk.auto
-    - essentials.balance
-    - essentials.balance.others
-    - essentials.balancetop
-    - -essentials.clearinventory
-    - essentials.delhome
-    - -essentials.help
-    - -essentials.helpop
-    - essentials.home
-    - essentials.ignore
-    - essentials.info
-    - -essentials.kit
-    - -essentials.kits.tools
-    - essentials.list
-    - essentials.mail
-    - essentials.mail.send
-    - -essentials.me
-    - -essentials.motd
-    - essentials.msg
-    - -essentials.msg.color
-    - essentials.pay
-    - -essentials.ping
+    - essentials.ping
     - essentials.protect
     - essentials.rules
     - -essentials.realname
@@ -94,24 +51,35 @@ groups:
     - multiverse.access.*
     - -minecraft.command.help
     - -bukkit.command.?
-    - multiverse.portal.access.*
+    - lwc.protect
+    - lwc.deny
     - essentials.build
     - essentials.build.interact
+    - essentials.sethome.multiple.default
+    - serversigns.use.*
   supporter:
     options:
       default: false
       prefix: '&2Supporter&8|&7'
     permissions:
-    - essentials.build
-    - essentials.build.interact
-    - essentials.joinfullserver
+    - system.team
+    - system.sup
+    - essentials.gc
+    - essentials.time.set
+    - essentials.time
+    - essentails.time.set
     - essentials.tp
     - essentials.invsee
     - essentials.feed
     - -essentials.weather
     - -essentials.setwarp
+    - essentials.chat.color
+    - essentials.enderchest
+    - essentials.workbench
+    - essentials.joinfullserver
     - worldguard.region.bypass.*
     - -essentials.kill
+    - serversigns.use.*
     - essentials.skull.*
     - essentials.skull
     - essentials.weather.sun
@@ -121,9 +89,6 @@ groups:
     - essentials.kick
     - essentials.sethome.multiple.team
     - essentials.heal
-    - essentials.invsee
-    - essentials.feed
-    - essentials.weather
     inheritance:
     - member
   moderator:
@@ -131,19 +96,28 @@ groups:
       default: false
       prefix: '&9Moderator&8|&7'
     permissions:
-    - -essentials.gamemode
-    - essentials.*
-    - essentials.setwarp
+    - system.team
+    - system.mod
+    - worldedit.selection.*
+    - essentail.gamemode
+    - worldedit.pos2
+    - worldedit.pos1
+    - worldedit.select
+    - worldedit.selectt
     - worldguard.*
     - essentials.invsee
     - essentials.tphere
     - essentials.tp
     - essentials.broadcast
+    - essentials.give
     - essentials.feed
     - essentials.feed.other
     - essentials.time.set
     - essentials.time
     - essentials.weather
+    - lwc.mod
+    - -essentials.gamemode
+    - essentials.*
     - essentials.time
     - essentials.time.set
     - essentials.banip
@@ -154,10 +128,8 @@ groups:
     - essentials.build
     - essentials.build.interact
     - multiverse.access.*
-    - multiverse.portal.access.*
     - essentials.setwarp
     - worldguard.region.bypass.*
-    - essentials.gamemode
     - essentials.kick
     - essentials.tphere
     - essentials.tpall
@@ -166,11 +138,171 @@ groups:
     - worldguard.*
     inheritance:
     - supporter
+  builder:
+    options:
+      default: false
+      prefix: '&6Architekt&8|&7'
+    permissions:
+    - system.builder
+    - essentials.*
+    inheritance:
+    - moderator
+  dev:
+    options:
+      default: false
+      prefix: '&3Dev&8|&7'
+    permissions:
+    - system.dev
+    - system.team
+    - serversigns.use.*
+    - rank.developer
+    - motdmanager.*
+    - MultiClan.*
+    - MultiClan.admin
+    inheritance:
+    - builder
   admin:
     options:
       default: false
-      prefix: '&cAdmin&8|&7'
+      prefix: '&cAdministrator&8|&7'
     permissions:
-    - *
+    - '*'
 schema-version: 1
-
+users:
+  f26a965c-f020-42d3-a478-6a52c4c24226:
+    group:
+    - admin
+    options:
+      name: xTimon97
+      prefix: '&aAdmin&8|&a'
+  384bc080-ef30-45a3-8dd2-fda71caa25e1:
+    group:
+    - admin
+    options:
+      prefix: '&c&lAdmin&8|&c'
+      name: Subjekt_91
+  d9fbc5be-73e8-4437-a38e-10bc44753bc1:
+    group:
+    - admin
+    options:
+      prefix: '&5TraitorAdmin&8|&5'
+      name: Ruffy121
+    permissions:
+    - essentials.*
+  e825b634-84d3-4cd2-a977-0564339a03e5:
+    group:
+    - builder
+    options:
+      prefix: '&bTrunkenbold&8|&b'
+      name: EmmaZagel
+    permissions:
+    - worldedit.*
+  fantasymaster15:
+    group:
+    - builder
+  a35e3524-f681-4ea0-a48f-041a6a0375b4:
+    group:
+    - builder
+    options:
+      name: iBimsDerKrampf
+  b7ff74b4-31e1-4523-9f4e-72d30f7b692a:
+    worlds:
+      :D:
+        group:
+        - builder
+    group:
+    - builder
+    options:
+      name: LOADGame
+  25a4dd47-22ba-4502-b388-35ea86cdb7cf:
+    group:
+    - dev
+    options:
+      name: Florian_26
+  2fd7f147-a532-45a7-bfcd-89059db06dce:
+    group:
+    - builder
+    options:
+      prefix: '&6Builder&8|&6'
+      name: Donaufreak
+  903db578-3c05-4af6-9cab-ccb2f651b562:
+    options:
+      prefix: '&5&k3&5r&5r&k0&5r&8|&5'
+      name: meepLp
+    permissions:
+    - system.meep
+  db976b88-f4a6-46e0-bc71-c05e80bd5ee6:
+    options:
+      name: w33dm4n
+  54747ffe-da41-416b-868d-971a54ff4517:
+    options:
+      name: rsjabber42
+    group:
+    - builder
+  9697581a-5190-4438-9f62-d4966c1ca292:
+    options:
+      prefix: '&eRisen3Publisher&8|&e'
+      name: Avartos
+  56c3e72f-909f-4ece-b387-9406bc94149a:
+    options:
+      name: G4m3rkind
+  f040f7fb-b7d3-42e1-8630-8888869516fd:
+    group:
+    - moderator
+    options:
+      name: MC_Thundras
+    permissions:
+    - system.sup
+  93a234ec-6de2-489a-a66b-b7e7c0a605b3:
+    group:
+    - moderator
+    options:
+      name: NezorPlay
+    permissions: []
+  09e5199e-eea8-454c-b334-3171619ddecd:
+    group:
+    - supporter
+    options:
+      name: _Christopher01_
+    permissions:
+    - system.sup
+  32c38915-ad50-49af-8fcf-9b15908d9be4:
+    options:
+      prefix: '&7Spieler&8|&7'
+      name: DrSocke
+  96c97d43-da3a-4910-9d21-56af320727b3:
+    options:
+      name: _Deconstruction
+    group:
+    - admin
+  c4d2c3b9-cf40-4149-bce5-079704fdea69:
+    options:
+      name: KarnyT
+  055631ac-83ae-491d-97f4-51f873a33ddf:
+    options:
+      name: Breitiiiii
+  0f5322bb-4577-40e4-b05b-1be56de02891:
+    options:
+      name: nodwiho
+  df7f1546-610d-470a-9032-674092273a4b:
+    options:
+      name: SkillMeDark
+  c3299283-5f2d-442e-9c33-1b92ba17be89:
+    options:
+      name: MineJannus
+  7c441ce9-ffd8-4076-81c1-0597ec3b76ad:
+    options:
+      name: ShinyBear
+  20ec3f9c-f985-4a95-88ff-977deedffa06:
+    options:
+      name: Dorikan
+  _christopher_:
+    group:
+    - Spieler
+  6e4c1449-631b-41df-bbce-b3a05c16222a:
+    options:
+      prefix: '&7Spieler&8|&7'
+      name: Royal_Bluemeanie
+  8c4537f8-6cf2-4824-a4de-f7677b467305:
+    options:
+      name: Zisiru

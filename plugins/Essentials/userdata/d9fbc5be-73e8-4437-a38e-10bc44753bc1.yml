@@ -1,0 +1,31 @@
+lastAccountName: Ruffy121
+timestamps:
+  login: 1514495051988
+  lastteleport: 1514500065160
+  logout: 1514501163587
+ipAddress: 192.168.178.50
+lastlocation:
+  world: world
+  x: 1105.9592603336766
+  y: 82.0
+  z: 1053.6749850515296
+  yaw: 227.99933
+  pitch: 30.449995
+logoutlocation:
+  world: world
+  x: 1124.608049396854
+  y: 50.0
+  z: 1054.9039121261512
+  yaw: 123.15091
+  pitch: 1.9498175
+afk: false
+godmode: false
+homes:
+  home:
+    world: world
+    x: 1102.9749480437683
+    y: 50.0
+    z: 1050.0709607633983
+    yaw: -63.900093
+    pitch: 2.5500298
+socialspy: true

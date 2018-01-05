@@ -1,0 +1,21 @@
+lastAccountName: HennyLDo
+timestamps:
+  login: 1507311723033
+  logout: 1507311873317
+  lastteleport: 1505446850655
+ipAddress: 46.81.73.127
+lastlocation:
+  world: world
+  x: 914.5
+  y: 76.0
+  z: 334.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 672.7309753480113
+  y: 65.0
+  z: 538.7133339117737
+  yaw: -165.2981
+  pitch: 18.90002
+afk: false

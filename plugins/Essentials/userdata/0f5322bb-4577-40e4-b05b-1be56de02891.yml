@@ -1,0 +1,29 @@
+lastAccountName: nodwiho
+timestamps:
+  login: 1513952788477
+  logout: 1513953466293
+  lastteleport: 1513540532434
+ipAddress: 89.166.249.183
+lastlocation:
+  world: world
+  x: 46.067102032232505
+  y: 60.0
+  z: 797.2362406921443
+  yaw: 213.59972
+  pitch: 2.8499823
+logoutlocation:
+  world: world
+  x: 1214.5965948437383
+  y: 64.0
+  z: 537.9799754760219
+  yaw: 237.30426
+  pitch: 7.8000197
+homes:
+  home:
+    world: world
+    x: 1216.6238778341935
+    y: 64.0
+    z: 537.6532808276811
+    yaw: 89.84999
+    pitch: 25.649994
+afk: false

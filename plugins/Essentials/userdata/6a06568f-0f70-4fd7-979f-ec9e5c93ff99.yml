@@ -1,0 +1,29 @@
+lastAccountName: Nirimis
+timestamps:
+  login: 1504101054957
+  lastteleport: 1503664470717
+  logout: 1504103011682
+ipAddress: 89.182.40.251
+lastlocation:
+  world: world
+  x: 1875.587933416863
+  y: 64.0
+  z: -287.18076000837215
+  yaw: -353.1187
+  pitch: 20.250008
+homes:
+  home:
+    world: world
+    x: 1864.2295789430586
+    y: 63.0
+    z: -287.896220346913
+    yaw: -60.751766
+    pitch: 41.550133
+logoutlocation:
+  world: world
+  x: 1850.7258493708173
+  y: 63.0
+  z: -278.5771760746315
+  yaw: -170.41638
+  pitch: 14.550052
+afk: false

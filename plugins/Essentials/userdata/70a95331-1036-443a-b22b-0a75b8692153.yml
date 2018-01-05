@@ -1,0 +1,21 @@
+lastAccountName: 4pplepl4yer
+timestamps:
+  login: 1513118528566
+  logout: 1513120056373
+  lastteleport: 1510325138594
+ipAddress: 77.22.254.67
+lastlocation:
+  world: world
+  x: 836.8671558527445
+  y: 69.0
+  z: 278.46572176712505
+  yaw: 29.850006
+  pitch: 19.199987
+logoutlocation:
+  world: world
+  x: -2801.6766429050676
+  y: 185.0
+  z: 1645.1786670838956
+  yaw: -41.05603
+  pitch: 11.549914
+afk: false

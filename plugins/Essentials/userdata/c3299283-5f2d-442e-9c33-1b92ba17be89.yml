@@ -1,0 +1,21 @@
+lastAccountName: MineJannus
+timestamps:
+  login: 1507846058294
+  logout: 1507848454888
+  lastteleport: 1507848453799
+ipAddress: 93.239.130.236
+lastlocation:
+  world: world
+  x: 2020.300000011921
+  y: 46.0
+  z: 292.5098952480341
+  yaw: -100.20429
+  pitch: 8.849987
+logoutlocation:
+  world: world
+  x: 914.5
+  y: 76.0
+  z: 334.5
+  yaw: 0.0
+  pitch: 0.0
+afk: false
