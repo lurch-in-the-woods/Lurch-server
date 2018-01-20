@@ -1,0 +1,76 @@
+{
+  "default_ranks": {
+    "player": "player", // Set default Player Rank to Player
+    "op": "Admin" // set default OP to Rank Admin
+  },
+  "ranks": {
+    "player": {
+      "parent": "builtin_player", //heridity group plvayer
+      "syntax": "Spieler|$name", // InGame displayed Name
+
+      "permissions": [
+        "+ftbu.claims.block.edit.gravestone.gravestone", //allways allowed to remove gravestone
+        "+ftbu.claims.upgrade.no_explosions", //allowed to disable explosions
+        "+ftbu.claims.upgrade.no_pvp" //allowed to disable pvp
+        "+command.sethome" // allowed to set Homes
+        "+command.home" // allowed to Port to Home
+        "+command.spawn" // allow Spawn Port
+      ],
+      "config": {
+        "ftbu.chunkloader.max_chunks": 25, // 25 can be loaded
+        "ftbu.chunkloader.offline_timer": 336, // after 14 Days the Chunks get unloaded
+        "ftbu.claims.max_chunks": 200 // max 200 Chunks can be loaded
+      }
+    },
+    "admin": { // Admin Rank starts
+      "parent": "builtin_op", // Inherits from the builtin_op group
+      "syntax": "&aAdmin&r|$name", // InGame displayes Name
+      "permissions": [
+        "+*" //wildcard
+      ],
+      "config": {
+        "ftbu.chunkloader.max_chunks": 25, // 25 chunks loaded
+        "ftbu.chunkloader.offline_timer": 672, // Chunks will be unloaded after 4 Weeks after last login
+        "ftbu.claims.max_chunks": 300
+      }
+    },
+
+    "Developer": { // Developer starts
+      "parent": "builtin_op", // Inherits from the builtin_op group
+      "syntax": "Dev|$name", // How their username will be displayed in chat
+      "permissions": [
+        "+ftbu.claims.block.edit.gravestone.gravestone", //allways allowed to remove gravestone
+        "+command.sethome"
+        "+command.home"
+        "+command.spawn"
+        "+command.stop" // allowed to restart Server
+        "+ftbu.claims.upgrade.no_explosions", //allowed to disable explosions
+        "+ftbu.claims.upgrade.no_pvp" //allowed to disable pvp
+      ],
+      "config": {
+        "ftbu.chunkloader.max_chunks": 25,
+        "ftbu.chunkloader.offline_timer": 672,
+        "ftbu.claims.max_chunks": 300
+      }
+    },
+    "builder": { // Builder starts here
+      "parent": "player", // Inherits from the player group
+      "syntax": "Builder|$name> ", // How their username will be displayed in chat
+      "permissions": [
+
+        "+ftbu.claims.block.edit.gravestone.gravestone", //allways allowed to remove gravestone
+        "+ftbu.claims.upgrade.no_explosions", //allowed to disable explosions
+        "+command.sethome"
+        "+command.home"
+        "+command.spawn"
+        "+command.gamemode" //allowed to change Gamemode
+        "+ftbu.claims.upgrade.no_pvp" //allowed to disable pvp
+        ],
+      "config": {
+        "ftbu.chunkloader.max_chunks": 25,
+        "ftbu.chunkloader.offline_timer": 336,
+        "ftbu.claims.max_chunks": 200
+      }
+    }
+  }
+}
